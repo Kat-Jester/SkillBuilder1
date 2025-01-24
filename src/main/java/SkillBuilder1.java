@@ -26,7 +26,7 @@ public class SkillBuilder1 {
         final double squareFeetPerGallons = 350.0;
         final double gallonsPerCan = 1.0;
 
-        // Prompt user to input wall's width
+        // Prompt users to input wall's width
         System.out.println("Enter wall height (feet):");
         double wallHeight = input.nextDouble();
 
